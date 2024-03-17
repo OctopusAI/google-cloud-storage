@@ -27,7 +27,6 @@ Requires-Dist: google-api-core<3.0.0dev,>=2.15.0
 Requires-Dist: google-cloud-core<3.0dev,>=2.3.0
 Requires-Dist: google-resumable-media>=2.6.0
 Requires-Dist: requests<3.0.0dev,>=2.18.0
-Requires-Dist: google-crc32c<2.0dev,>=1.0
 Provides-Extra: protobuf
 Requires-Dist: protobuf<5.0.0dev; extra == "protobuf"
 
